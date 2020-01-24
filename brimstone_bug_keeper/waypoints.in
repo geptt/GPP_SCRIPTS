@@ -22,11 +22,13 @@ node (33047,31532,10)
 stand (33061,31530,10)
 door (33061,31529,10)
 stand (33061,31527,10)
-action use_elevator
+ladder (33062,31527,10)
+ladder (33062,31527,10)
 stand (32990,31548,4)
 door (32990,31547,4)
 stand (32991,31539,4)
-action use_elevator
+ladder (32992,31539,4)
+ladder (32992,31539,4)
 stand (32991,31543,1)
 stand (32999,31544,2)
 stand (33004,31543,1)
@@ -99,7 +101,8 @@ action levitate_south_down
 stand (33005, 31557, 5)
 stand (33004, 31557, 5)
 stand (32993, 31547, 4)
-action use_elevator
+ladder (32994,31547,4)
+ladder (32994,31547,4)
 stand (33060,31528,10)
 ladder (33060,31529,10)
 stand (33052,31532,10)
@@ -115,5 +118,4 @@ node (33017,31467,10)
 stand (33019,31459,10)
 node (33024,31454,11)
 action deposit
-action refill
 node (33022,31458,11)
