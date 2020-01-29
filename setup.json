@@ -28,7 +28,7 @@
 "spells":
 {
 	"utani hur": "v",
-	"utura": "R",
+	"utura gran": "R",
 	"utito tempo": "X",
 	"exura ico":"r",
 	"exori":"1",
@@ -42,15 +42,15 @@
 	{"type":"hp", "below_percent":40, "use_item":"great health potion", "priority":3},
 	{"type":"hp", "below_percent":80, "use_spell":"exura ico", "min_mana_percent":10, "priority":2},
 	{"type":"mp", "below_percent":60, "use_item":"mana potion", "priority":1},
-	{"type":"hp", "below_percent":95, "use_spell":"utura", "min_mana_percent":40, "priority":1, "cooldown":60}
+	{"type":"hp", "below_percent":95, "use_spell":"utura gran", "min_mana_percent":40, "priority":1, "cooldown":60}
 ],
 "hunt_config": {
 	"cap_leave": 100,
 	"mana_name": "mana potion",
-	"take_mana": 800,
-	"mana_leave": 200,
+	"take_mana": 400,
+	"mana_leave": 130,
 	"health_name": "great health potion",
-	"take_health": 100,
+	"take_health": 80,
 	"health_leave": 30
 },
 "persistent_actions": [
