@@ -49,8 +49,8 @@ If you want to improve the scripts, or add your own scripts, you have to make a 
 | Level | Name                            | Profit                                  | XP                                      |
 | ----- | ------------------------------- | --------------------------------------- | --------------------------------------- |
 | 8+    | [Port Hope Swamp Trolls @elsteiner](scripts_elsteiner/PortHope_SwampTrolls/setup.json)                | :star: :star: :star:                    | :star:                     |
-| 15+   | [Rotworm Darashia North by G;P](rotworm_darashia_north/setup.json)  | :star:                                  | :star:                            |
-| 15+   | [Rotworm Darashia North-East by G;P](rotworm_darashia_north/setup.json)  | :star:                                  | :star:                            |
+| 15+   | [Rotworm Darashia North @GPP](rotworm_darashia_north/setup.json)  | :star:                                  | :star:                            |
+| 15+   | [Rotworm Darashia North-East @GPP](rotworm_darashia_north/setup.json)  | :star:                                  | :star:                            |
 | 20+   | [Tarantulas Port Hope](tarantula_cave/setup.json)  | :star:                                  | :star:                                  |
 | 40+   | [Mutated Humans](mutated_humans/setup.json) | :star:                                  | :star: :star: :star:             |
 | 50+   | [Apes City -1 Port Hope @Juanjo](scripts_jj/apes_city_-1/setup_ek.json)  | :star: :star: :star: :star:                          | :star:           |
