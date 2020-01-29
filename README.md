@@ -59,6 +59,7 @@ If you want to improve the scripts, or add your own scripts, you have to make a 
 | 50+   | [Pirates Yalahar](pirates_yalahar/setup.json)                 | :star: :star:                           | :star: :star:                           |
 | 50+   | [Dragons Yalahar @Juanjo](scripts_jj/dragons_yalahar/setup_ek.json)                 | :star: :star:                           | :star: :star:                           |
 | 50+   | [Lion Rock @Juanjo](scripts_jj/lion_rock/setup_ek70.json)                 | :star: :star:                           | :star: :star: :star:                          |
+| 50+   | [Necromancer Yalahar @GPP](/necromancer_yalahar/setup.json) | :star: :star:     |  :star: :star:  |
 | 60+   | [Vandura -2 @GPP](/vandura_-2/setup.json)                  | :star:      |  :star: :star:  |
 | 70+   | Ancient Scarab Khazel           | :star: :star:                           | :star: :star:                    |
 | 70+   | [Crystal Spider Hidden @GPP](/crystal_spider_hidden/setup.json)                  | :star: :star: :star:       |  :star: :star:  | 
