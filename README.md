@@ -59,7 +59,7 @@ If you want to improve the scripts, or add your own scripts, you have to make a 
 | 50+   | [Dragons Yalahar @Juanjo](scripts_jj/dragons_yalahar/setup_ek.json)                 | :star: :star:                           | :star: :star:                           |
 | 50+   | [Lion Rock @Juanjo](scripts_jj/lion_rock/setup_ek70.json)                 | :star: :star:                           | :star: :star: :star:                          |
 | 70+   | Ancient Scarab Khazel           | :star: :star:                           | :star: :star:                    |
-| 70+   | [Crystal Spider Hidden @GPP](GPP_SCRIPTS/Crystal_Spider_Hidden/setup.json)                  | :star: :star: :star:            | :star: :star:
+| 70+   | [Crystal Spider Hidden @GPP](GPP_SCRIPTS/Crystal Spider Hidden/setup.json)                  | :star: :star: :star:            | :star: :star:
 | 90+   | Mother of Scarab                | :star: :star:                           | :star: :star:                    |  
 | 90+   | [Killer Caimans](killer_caimans/setup.json)                  | :star: :star: :star:                    | :star: :star:                           |
 
