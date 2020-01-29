@@ -23,7 +23,8 @@ If you want to improve the scripts, or add your own scripts, you have to make a 
 | 30+   | [Shadowthorn Venore](elves_venore/setup.json)   | :star: :star:                           | :star: :star:                           |
 | 45+   | [Forest Fury Camp](forest_fury/setup.json)               | :star: :star: :star:                    | :star: :star: :star:                    |
 | 60+   | [Dark Cathedral -2](dark_cathedral/setup.json)   | :star:                                  | :star: :star: :star:                    |
-| 75+   | Corym Venore North -1           | :star: :star:                           | :star: :star: :star:                    |
+| 75+   | Corym Venore North -Crystal Spider Hidden()1           | :star: :star:                           | :star: :star: :star:                    |
+| 80+   | [Crystal Spider Hidden](GPP_SCRIPTS/crystal_spider_hidden/setup.json)           | :star: :star:                           | :star: :star: :star:                    |
 | 80+   | [Stonerefiner](stonerefiner/setup_ek.json) | :star: :star: :star:                    | :star: :star: :star:                    |
 
 ### Paladin (8-100)
