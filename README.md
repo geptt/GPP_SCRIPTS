@@ -72,7 +72,7 @@ If you want to improve the scripts, or add your own scripts, you have to make a 
 | 120+  | [Sea Serpent North](sea_serpent/setup_ek_north.json) | :star: :star: :star:                    | :star: :star: :star:                    | 
 | 130+  | [Carlin Cults @Juanjo](scripts_jj/carlin_cults/setup_ek.json)           | :star:                                  | :star: :star: :star:                    |    
 | 130+  | Wyrm Cave Liberty Bay           | :star:                                  | :star: :star: :star:                    |    
-| 140+  | [Brimstone Bug Keeper Cave by G;P](brimstone_bug_keeper/setup.json) | :star: :star: :star:       | :star: :star: :star:                    |    
+| 140+  | [Brimstone Bug Keeper Cave @GPP](brimstone_bug_keeper/setup.json) | :star: :star: :star:       | :star: :star: :star:                    |    
 | 150+  | [Krailos Giant Spider Cave](krailos_spider_cave/setup.json)       | :star: :star: :star:                    | :star: :star: :star:                    |              
 | 150+  | [Vampire Crypt Edron](vampire_crypt_edron/setup_ek.json)             | :star: :star: :star:                    | :star: :star: :star:                    |
 | 160+  | [Krailos Nightmare](krailos_nightmare/setup_ek.json) | :star:                                  | :star: :star: :star:                    |
