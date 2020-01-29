@@ -16,7 +16,7 @@
 "items":
 {
     "mana potion": {"hotkey":"e", "id":268, "use":"self"},
-    "health potion": {"hotkey":"f", "id":268, "use":"self"}
+    "health potion": {"hotkey":"f", "id":266, "use":"self"}
     
 },
 "spells":
